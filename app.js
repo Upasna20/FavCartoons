@@ -9,28 +9,28 @@ reviews = [
 
     {
         "name": "Doraemon",
-        "desc": "22nd-century cat",
+        "desc": "22nd-century cat😎",
         "review": "Doraemon's 22nd-century gadgets gave me future plans of time travel as a kid💃! And I need to admit it, was I a sadist kid😈 who laughed watching Nobita's struggles And what abt Gian's singing just like mine?? ",
         "image_src": "cartoon_images/doraemon.png"
     },
 
     {
         "name": "Chota Bheem",
-        "desc": "Does he need an intro?",
+        "desc": "Does he need an intro?💪",
         "review": "Bheem, Bheem, and the endless supply of ladoos! But let's be real,😒🙄 what kind of king was Indraverma, huh? Without Bheem, who'd rescue Dholakpur from Mangal Singh's mischief? Thank god now folks are elected😌!",
         "image_src": "cartoon_images/Bheem.jpg"
     },
 
     {
         "name": "Thomas",
-        "desc": "an ever overwrought cat",
+        "desc": "an ever overwrought😖 cat",
         "review": "Oh, Tom and Jerry's endless chase 😿 and Tom's hilarious antics! Tom was such an ever irritated cat,😨🤯 why didn't Tom ever learn, Must've been like me🙄? Also lately I have been feeling so like Tom, and I get you dude.🤗 ",
         "image_src": "cartoon_images/Tom.jpg"
     },
 
     {
         "name": "Oggy",
-        "desc": "Just another ever anxious Cat",
+        "desc": "Just another ever anxious Cat😫",
         "review": "Well, The Hindi Dubbing is lit🔥!! Also for some reason I found Oggy really cool and god knows what for🤷‍♂️? Maybe because both of us are so alike.🤔",
         "image_src": "cartoon_images/Oggy.jpg"
     },
