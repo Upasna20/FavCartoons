@@ -162,5 +162,71 @@ img {
 }
 
 
+/* The CSS for desktop remains the same */
 
+/* CSS for mobile */
+@media only screen and (max-width: 600px) {
+    header {
+      margin-top: 1.5em;
+    }
+  
+    header h2 {
+      font-size: 1.8rem;
+    }
+  
+    header hr {
+      width: 15%;
+    }
+  
+    main {
+      margin-top: 1.5rem;
+    }
+  
+    .card-container {
+      height: 60%;
+      width: 80%;
+    }
+  
+    .image-holder {
+      width: 30%;
+      height: 20%;
+      margin-top: 0.5rem;
+      margin-bottom: 1rem;
+    }
+  
+    .comma-holder {
+      width: 20%;
+      height: 25%;
+    }
+  
+    .name-holder {
+      font-size: 1.2rem;
+    }
+  
+    .desc-holder {
+      font-size: 0.7rem;
+    }
+  
+    .review-text-holder {
+      height: auto;
+      width: 80%;
+      margin: 1rem 1rem 0rem;
+      font-size: 0.8rem;
+    }
+  
+    .nav-buttons {
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+  
+    .fa-chevron-left,
+    .fa-chevron-right {
+      font-size: 1rem;
+    }
+  
+    .surprise-box button {
+      padding: 0.2rem 0.6rem;
+      font-size: 0.7rem;
+    }
+  }
   
